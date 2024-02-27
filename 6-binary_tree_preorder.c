@@ -1,5 +1,4 @@
 #include "binary_trees.h"
-void preorder(const binary_tree_t *root, void (*func)(int));
 
 /**
  * binary_tree_preorder - traverses a binary tree using pre-order traversal
